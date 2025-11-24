@@ -23,7 +23,7 @@ app.secret_key = os.environ.get("FLASK_SECRET_KEY", "chave_de_dev_trocar_no_futu
 
 
 
-api_key = "AIzaSyDF0W32uxIrnjot4i6tWQ-uL41qPFG8UXw"
+api_key = os.environ.get("API_KEY")
 genai.configure(api_key=api_key)
 modelo = genai.GenerativeModel("gemini-2.0-flash")
 
