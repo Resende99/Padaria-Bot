@@ -73,6 +73,6 @@ Objetivo do projeto
 Criar um assistente simples, direto e funcional para uso em padarias, centralizando informações de receitas e práticas de fermentação, garantindo praticidade e rapidez nas respostas.
 
 
-link para acesso do Padaria-Bot
+O Padaria-Bot esta disponivel online atraves do Render:
 
 https://padaria-bot.onrender.com
